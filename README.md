@@ -1,4 +1,10 @@
-<h1>CAMAGRU :camera::camera:</h1>
+<h1>CAMAGRU :camera: :movie_camera:</h1>
+
+```diff
+# Is a WeThinkCode_ project.
+```
+
+<hr />
 
 This web project (CAMAGRU) creates a small web application (in PHP and Javascript) allowing to take photo using your webcam and
 combine with some predefined images. Images can also be uploaded.
