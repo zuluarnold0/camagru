@@ -21,7 +21,29 @@
 
 <hr />
 
+ <h2> Features :bulb: :speaker: :radio: </h2>  
 
+```diff
+- Registration and Signing-in
+```
+<hr />
+
+<h2> Languages && Tools :speech_balloon: :wrench:</h2> 
+
+<h3> Front-End: </h3>
+
+```diff
+# HTML
+# CSS
+# JavaScript
+```
+
+<h3> Back-End: </h3>
+
+```diff
+# MySQL
+# PDO
+```
 
 How to use it:
 - download the folder put it on htdocs (on Mamp or Xampp)
