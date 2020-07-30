@@ -98,7 +98,18 @@
 
 <em>To clone:</em> [Go to camagru project!](https://github.com/zuluarnold0/camagru)
 
-<h3> Setup Database </h3>
+<h3> Start Project </h3>
+
+```diff
+- start Apache and Mysql server on xampp control panel
+- copy download camagru project to 'C:\xampp\htdocs'
+- on browser paste: 'http://localhost/camagru/config/setup.php'
+- (the link above sets up your camagru database and creates database tables)
+- make sure the password in the database.php file matches the phpmyadmin password
+- (to successfully run this project use port 8080)
+```
+
+<h3> Extras </h3>
 
 ```diff
 - start Apache and Mysql server on xampp control panel
@@ -111,10 +122,6 @@
 <hr />
 
 How to use it:
-- setup up: camagru/config/setup.php
-- after registration you will get an email. click on it and your account will be verified
-- if you cannot confirm or verify email check your path 'http://localhost:8080/camagru/' on register_signup.php and forgot_user.php
-- login
 - on view page you have an option on whether to a) click a radio button and take pic using webcam or
   b) click radio button and upload photo from your computer
 - you can delete your taken images by simply clicking on them
