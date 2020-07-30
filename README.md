@@ -1,8 +1,10 @@
-# CAMAGRU
+<h1>CAMAGRU :camera::camera:</h1>
 
 This web project (CAMAGRU) creates a small web application (in PHP and Javascript) allowing to take photo using your webcam and
 combine with some predefined images. Images can also be uploaded.
 All captured images are public, likeable and commentable.
+
+
 
 How to use it:
 - download the folder put it on htdocs (on Mamp or Xampp)
