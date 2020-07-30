@@ -98,10 +98,19 @@
 
 <em>To clone:</em> [Go to camagru project!](https://github.com/zuluarnold0/camagru)
 
+<h3> Setup Database </h3>
+
+```diff
+- start Apache and Mysql server on xampp control panel
+- copy download camagru project to 'C:\xampp\htdocs'
+- on browser paste: 'http://localhost/camagru/config/setup.php'
+- (the link above sets up your camagru database and creates database tables)
+- make sure the password in the setup.php file matches the xampp password
+```
+
 <hr />
 
 How to use it:
-- download the folder put it on htdocs (on Mamp or Xampp)
 - setup up: camagru/config/setup.php
 - after registration you will get an email. click on it and your account will be verified
 - if you cannot confirm or verify email check your path 'http://localhost:8080/camagru/' on register_signup.php and forgot_user.php
@@ -114,7 +123,12 @@ How to use it:
 - your username, email and password can also be updated on profile page.
 - when you forget password, resend email and you will get a new password
 
-THANKS, ENJOY!!
+<h4> HAPPY HACKING!!!!!!!! :grinning: :grinning: :grinning: :grinning: :grinning: </h4>
+
+<hr />
+<hr />
+
+<h2>Pictures</h2>
 
 **Signup page**
 ![signup image](/snapshots/signup.png)
