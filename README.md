@@ -87,7 +87,7 @@
 
 :arrow_down:
 
-<em>Download Xampp here:</em> [xampp!](https://www.apachefriends.org/index.html)
+<em>Download Xampp here:</em> [xampp!](https://www.apachefriends.org/index.html)<br />
 <em>Download Git here:</em> [git!](https://git-scm.com/)
 
 <hr />
