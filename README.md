@@ -92,6 +92,12 @@
 
 <hr />
 
+<h2> Set Up Project </h2>
+
+<h3> Clone Project: </h3>
+
+<em>To clone:</em> [Go to camagru project!](https://github.com/zuluarnold0/camagru)
+
 How to use it:
 - download the folder put it on htdocs (on Mamp or Xampp)
 - setup up: camagru/config/setup.php
