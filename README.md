@@ -54,6 +54,43 @@
 # MySQL Database
 # PDO
 ```
+<h2> HOW TO RUN THE PROJECT :running:</h2> 
+
+<h3> Requirements :warning:</h3>
+
+<ul>
+   <li>
+      <em>
+        <strong>
+          Xampp:
+        </strong>
+       </em>
+    </li>
+    
+```diff
+# Download Xampp to have access to Phpmyadmin and Mysql database
+```
+
+  <li>
+      <em>
+        <strong>
+          Git:
+        </strong>
+       </em>
+    </li>
+    
+```diff
+# To use git commands e.g to clone the camagru project
+```
+
+</ul>
+
+:arrow_down:
+
+<em>Download Xampp here:</em> [xampp!](https://www.apachefriends.org/index.html)
+<em>Download Git here:</em> [git!](https://git-scm.com/)
+
+<hr />
 
 How to use it:
 - download the folder put it on htdocs (on Mamp or Xampp)
