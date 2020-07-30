@@ -98,6 +98,8 @@
 
 <em>To clone:</em> [Go to camagru project!](https://github.com/zuluarnold0/camagru)
 
+<hr />
+
 How to use it:
 - download the folder put it on htdocs (on Mamp or Xampp)
 - setup up: camagru/config/setup.php
