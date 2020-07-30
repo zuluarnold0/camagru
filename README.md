@@ -25,6 +25,10 @@
 
 ```diff
 - Registration and Signing-in
+- Email verification
+- Password reset
+- Image capture
+- Image display
 ```
 <hr />
 
@@ -38,10 +42,16 @@
 # JavaScript
 ```
 
+<h3> Server: </h3>
+
+```diff
+# PHP
+```
+
 <h3> Back-End: </h3>
 
 ```diff
-# MySQL
+# MySQL Database
 # PDO
 ```
 
